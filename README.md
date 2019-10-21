@@ -1,4 +1,4 @@
-# GesturalInterfaces
+# Gestural Interfaces
 Gestural Interfaces
 This project is an experiment with developing a wireless gestural interaction with virtual object actualized as holograms.
 
